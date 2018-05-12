@@ -1,0 +1,33 @@
+_repo: The-Andes-of-Southern-PeruGeographical-Reconnaissance-along-the-Seventy-Third-Meridian_42860
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42860-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bowman, Isaiah
+    birthdate: 1878
+    deathdate: 1950
+    gutenberg_agent_id: '41890'
+    url: http://www.gutenberg.org/2009/agents/41890
+    wikipedia: http://www.gutenberg.org/en.wikipedia.org/wiki/Isaiah_Bowman
+description: ''
+gutenberg_issued: '2013-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yale Peruvian Expedition (1911)'
+- !lcc 'GB'
+- !lcsh 'Physical geography -- Peru'
+- !lcsh 'Human geography -- Peru'
+- !lcsh 'Geology -- Andes'
+- !lcsh 'Peru -- Geography'
+title: 'The Andes of Southern Peru
+
+  Geographical Reconnaissance along the Seventy-Third Meridian'
+url: http://www.gutenberg.org/ebooks/42860
