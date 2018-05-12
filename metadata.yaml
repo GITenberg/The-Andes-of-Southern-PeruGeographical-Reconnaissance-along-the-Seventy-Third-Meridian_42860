@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41890
     wikipedia: http://www.gutenberg.org/en.wikipedia.org/wiki/Isaiah_Bowman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42860#The-Andes-of-Southern-PeruGeographical-Reconnaissance-along-the-Seventy-Third-Meridian
 gutenberg_issued: '2013-06-02'
 gutenberg_type: Text
 identifiers:
